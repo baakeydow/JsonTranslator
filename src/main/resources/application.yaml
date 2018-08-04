@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: ERROR
+
+server:
+  port: 8000

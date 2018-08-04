@@ -1,0 +1,10 @@
+{
+  "sellers": "Vendeurs",
+  "buyers": "Acheteurs",
+  "belongsTo": "it belongs to",
+  "_id": "ID",
+  "canbetouch": "canBeTouched",
+  "link": "Links",
+  "newfile": "NouveauFichier",
+  "nbitemsbought": "Numbers of Items bought"
+}

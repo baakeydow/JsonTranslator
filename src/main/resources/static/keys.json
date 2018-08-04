@@ -1,0 +1,327 @@
+{
+  "result": {
+    "out": {
+      "result": [
+        {
+          "buyers": {
+            "class": "roles.buyers",
+            "hasboughtbefore": true,
+            "name": "buyer0",
+            "nbitemsbought": 2.0,
+            "nbofinteractions": 16.0,
+            "self": null,
+            "source": "default",
+            "stamp": null,
+            "text": [],
+            "uri": "buyers/0"
+          },
+          "sellers": [
+            {
+              "buyer": "buyer0",
+              "class": "roles.sellers",
+              "name": "seller10",
+              "self": null,
+              "source": "default",
+              "stamp": null,
+              "text": [],
+              "uri": "sellers/10"
+            }
+          ]
+        },
+        {
+          "buyers": {
+            "class": "roles.buyers",
+            "hasboughtbefore": true,
+            "name": "buyer1",
+            "nbitemsbought": 1.0,
+            "nbofinteractions": 1.0,
+            "self": null,
+            "source": "default",
+            "stamp": null,
+            "text": [],
+            "uri": "buyers/1"
+          },
+          "sellers": [
+            {
+              "buyer": "buyer1",
+              "class": "roles.sellers",
+              "name": "seller1",
+              "self": null,
+              "source": "default",
+              "stamp": null,
+              "text": [],
+              "uri": "sellers/1"
+            }
+          ]
+        },
+        {
+          "buyers": {
+            "class": "roles.buyers",
+            "hasboughtbefore": false,
+            "name": "buyer2",
+            "nbitemsbought": 5.0,
+            "nbofinteractions": 3.0,
+            "self": null,
+            "source": "default",
+            "stamp": null,
+            "text": [],
+            "uri": "buyers/2"
+          },
+          "sellers": [
+            {
+              "buyer": "buyer2",
+              "class": "roles.sellers",
+              "name": "seller0",
+              "self": null,
+              "source": "default",
+              "stamp": null,
+              "text": [],
+              "uri": "sellers/0"
+            }
+          ]
+        },
+        {
+          "buyers": {
+            "class": "roles.buyers",
+            "hasboughtbefore": true,
+            "name": "buyer3",
+            "nbitemsbought": 42.0,
+            "nbofinteractions": 4.0,
+            "self": null,
+            "source": "default",
+            "stamp": null,
+            "text": [],
+            "uri": "buyers/3"
+          },
+          "sellers": [
+            {
+              "buyer": "buyer3",
+              "class": "roles.sellers",
+              "name": "seller3",
+              "self": null,
+              "source": "default",
+              "stamp": null,
+              "text": [],
+              "uri": "sellers/3"
+            }
+          ]
+        },
+        {
+          "buyers": {
+            "class": "roles.buyers",
+            "hasboughtbefore": false,
+            "name": "buyer4",
+            "nbitemsbought": 32.0,
+            "nbofinteractions": 1.0,
+            "self": null,
+            "source": "default",
+            "stamp": null,
+            "text": [],
+            "uri": "buyers/4"
+          },
+          "sellers": [
+            {
+              "buyer": "buyer4",
+              "class": "roles.sellers",
+              "name": "seller2",
+              "self": null,
+              "source": "default",
+              "stamp": null,
+              "text": [],
+              "uri": "sellers/2"
+            }
+          ]
+        },
+        {
+          "buyers": {
+            "class": "roles.buyers",
+            "hasboughtbefore": true,
+            "name": "buyer5",
+            "nbitemsbought": 5.0,
+            "nbofinteractions": 43.0,
+            "self": null,
+            "source": "default",
+            "stamp": null,
+            "text": [],
+            "uri": "buyers/5"
+          },
+          "sellers": [
+            {
+              "buyer": "buyer5",
+              "class": "roles.sellers",
+              "name": "seller5",
+              "self": null,
+              "source": "default",
+              "stamp": null,
+              "text": [],
+              "uri": "sellers/5"
+            }
+          ]
+        },
+        {
+          "buyers": {
+            "class": "roles.buyers",
+            "hasboughtbefore": false,
+            "name": "buyer6",
+            "nbitemsbought": 142.0,
+            "nbofinteractions": 64.0,
+            "self": null,
+            "source": "default",
+            "stamp": null,
+            "text": [],
+            "uri": "buyers/6"
+          },
+          "sellers": [
+            {
+              "buyer": "buyer6",
+              "class": "roles.sellers",
+              "name": "seller6",
+              "self": null,
+              "source": "default",
+              "stamp": null,
+              "text": [],
+              "uri": "sellers/6"
+            }
+          ]
+        },
+        {
+          "buyers": {
+            "class": "roles.buyers",
+            "hasboughtbefore": true,
+            "name": "buyer7",
+            "nbitemsbought": 345.0,
+            "nbofinteractions": 1.0,
+            "self": null,
+            "source": "default",
+            "stamp": null,
+            "text": [],
+            "uri": "buyers/7"
+          },
+          "sellers": [
+            {
+              "buyer": "buyer7",
+              "class": "roles.sellers",
+              "name": "seller4",
+              "self": null,
+              "source": "default",
+              "stamp": null,
+              "text": [],
+              "uri": "sellers/4"
+            }
+          ]
+        },
+        {
+          "buyers": {
+            "class": "roles.buyers",
+            "hasboughtbefore": true,
+            "name": "buyer8",
+            "nbitemsbought": 0.0,
+            "nbofinteractions": 1.0,
+            "self": null,
+            "source": "default",
+            "stamp": null,
+            "text": [],
+            "uri": "buyers/8"
+          },
+          "sellers": [
+            {
+              "buyer": "buyer8",
+              "class": "roles.sellers",
+              "name": "seller8",
+              "self": null,
+              "source": "default",
+              "stamp": null,
+              "text": [],
+              "uri": "sellers/8"
+            }
+          ]
+        },
+        {
+          "buyers": {
+            "class": "roles.buyers",
+            "hasboughtbefore": false,
+            "name": "buyer9",
+            "nbitemsbought": 9.0,
+            "nbofinteractions": 13.0,
+            "self": null,
+            "source": "default",
+            "stamp": null,
+            "text": [],
+            "uri": "buyers/9"
+          },
+          "sellers": [
+            {
+              "buyer": "buyer9",
+              "class": "roles.sellers",
+              "name": "seller11",
+              "self": null,
+              "source": "default",
+              "stamp": null,
+              "text": [],
+              "uri": "sellers/11"
+            }
+          ]
+        },
+        {
+          "buyers": {
+            "class": "roles.buyers",
+            "hasboughtbefore": false,
+            "name": "buyer10",
+            "nbitemsbought": 342.0,
+            "nbofinteractions": 43.0,
+            "self": null,
+            "source": "default",
+            "stamp": null,
+            "text": [],
+            "uri": "buyers/10"
+          },
+          "sellers": [
+            {
+              "buyer": "buyer10",
+              "class": "roles.sellers",
+              "name": "seller7",
+              "self": null,
+              "source": "default",
+              "stamp": null,
+              "text": [],
+              "uri": "sellers/7"
+            }
+          ]
+        },
+        {
+          "buyers": {
+            "class": "roles.buyers",
+            "hasboughtbefore": false,
+            "name": "buyer11",
+            "nbitemsbought": 11.0,
+            "nbofinteractions": 4.0,
+            "self": null,
+            "source": "default",
+            "stamp": null,
+            "text": [],
+            "uri": "buyers/11"
+          },
+          "sellers": [
+            {
+              "buyer": "buyer11",
+              "class": "roles.sellers",
+              "name": "seller9",
+              "self": null,
+              "source": "default",
+              "stamp": null,
+              "text": [],
+              "uri": "sellers/9"
+            }
+          ]
+        }
+      ],
+      "header": {
+        "count": 12
+      }
+    }
+  },
+  "header": {
+    "status": "SUCCESS",
+    "executionTime": 21344281
+  }
+}

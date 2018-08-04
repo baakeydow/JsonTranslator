@@ -1,0 +1,68 @@
+{
+  "result": {
+    "out": {
+      "result": [
+        {
+          "buyers": {
+            "hasboughtbefore": false,
+            "name": "buyer2",
+            "array": [
+              "lol",
+              "mdr"
+            ],
+            "nbitemsbought": 5.0,
+            "cars": [
+              {
+                "name": [
+                  {
+                    "mdr": [
+                      "lol",
+                      "okay"
+                    ]
+                  }
+                ],
+                "models": [
+                  "Fiesta",
+                  "Focus",
+                  "Mustang"
+                ]
+              },
+              {
+                "name": "BMW",
+                "models": [
+                  "320",
+                  "X3",
+                  "X5"
+                ]
+              },
+              {
+                "name": "Fiat",
+                "models": [
+                  "500",
+                  "Panda"
+                ]
+              }
+            ],
+            "uri": "buyers/2"
+          },
+          "sellers": [
+            {
+              "buyer": "buyer2",
+              "name": "seller0",
+              "stamp": null,
+              "text": [],
+              "uri": "sellers/0"
+            }
+          ]
+        }
+      ],
+      "header": {
+        "count": 12
+      }
+    }
+  },
+  "header": {
+    "status": "SUCCESS",
+    "executionTime": 21344281
+  }
+}
