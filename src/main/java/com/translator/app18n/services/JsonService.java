@@ -1,7 +1,7 @@
-package com.jsontranslator.app18n.services;
+package com.translator.app18n.services;
 
-import com.jsontranslator.app18n.factory.IjsonFactory;
-import com.jsontranslator.app18n.services.IJsonService;
+import com.translator.app18n.factory.IjsonFactory;
+import com.translator.app18n.services.IJsonService;
 
 import java.io.DataOutput;
 import java.io.DataOutputStream;

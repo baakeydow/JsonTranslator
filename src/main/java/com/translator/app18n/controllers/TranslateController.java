@@ -1,7 +1,7 @@
-package com.jsontranslator.app18n.controllers;
+package com.translator.app18n.controllers;
 
-import com.jsontranslator.app18n.services.IJsonService;
-import com.jsontranslator.app18n.factory.IjsonFactory;
+import com.translator.app18n.services.IJsonService;
+import com.translator.app18n.factory.IjsonFactory;
 
 import java.util.Locale;
 
@@ -26,6 +26,7 @@ public class TranslateController {
     try {
       RestTemplate rq = new RestTemplate();
       json = rq.getForObject("https://21times2.com/db/listall", String.class);
+      // json = IjsonFactory.getSampleJson("simpleKeys");
       IJsonService jsonService = iJson.getJsonService(json);
       String translated = jsonService.translate(IjsonFactory.getDictionary(new Locale("fr")));
       return new ResponseEntity<Object>(translated, HttpStatus.OK);

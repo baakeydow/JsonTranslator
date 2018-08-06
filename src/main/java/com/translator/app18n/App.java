@@ -1,4 +1,4 @@
-package com.jsontranslator.app18n;
+package com.translator.app18n;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

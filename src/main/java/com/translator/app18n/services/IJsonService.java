@@ -1,4 +1,4 @@
-package com.jsontranslator.app18n.services;
+package com.translator.app18n.services;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
